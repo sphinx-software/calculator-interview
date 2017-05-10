@@ -1,0 +1,16 @@
+{
+  "name": "calculator-interview",
+  "version": "1.0.0",
+  "description": "Interview Test For Node.JS developer",
+  "main": "index.js",
+  "scripts": {
+    "test": "node node_modules/.bin/mocha"
+  },
+  "author": "rikky <rikky@sphinx-software.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.3.0",
+    "sinon": "^2.2.0"
+  }
+}
