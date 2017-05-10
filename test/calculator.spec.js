@@ -38,5 +38,17 @@ describe('Calculator test suite', () => {
     it('must throw division by zero exception when it does', () => {
         // TODO your code here!
         throw new Error('You should implement this test');
+    });
+
+    it('can add other 2 sides operator as well', function () {
+        let powOperator = null;
+
+        // TODO populate the pow operator here!
+
+        calculator.add('^', powOperator);
+
+        let result = calculator.run('^', 2, 10);
+
+        assert.equal(1024, result);
     })
 });
