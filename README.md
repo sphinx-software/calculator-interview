@@ -7,9 +7,9 @@ This is a test for you before becoming an amazing developer @sphinx!
 - Other require will come-in by the interviewer(s)!
 - There are few levels of the time box:
     
-    - Less than a minute: You are amazing!
-    - Less then 5 minutes: Awesome!
-    - Less then 30 minutes: Great!
+    - Less than 5 minutes: You are amazing!
+    - Less than 15 minutes: Awesome!
+    - Less than 30 minutes: Great!
 
 See you in the interview!
 Happy coding and testing! :stuck_out_tongue_winking_eye:
