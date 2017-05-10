@@ -2,14 +2,18 @@
 This is a test for you before becoming an amazing developer @sphinx!
 
 - In this repo, you'll have a `package.json` file that configured with `chai`, `mocha` and `sinon`
-- We pre-setting up a `npm test` command, you should run that command, then you'll see it failing
+- We pre-setting up a `npm test` command, you should run that command, then you'll see it is failing
 - Our requirement is just simple: Make it pass!
-- Other require will come-in by the interviewer(s)!
+- Other requirements will come-in by the interviewer(s)!
 - There are few levels of the time box:
     
     - Less than 5 minutes: You are amazing!
     - Less than 15 minutes: Awesome!
     - Less than 30 minutes: Great!
 
-See you in the interview!
+---
+*Googling is allowed :heart:*
+*Need other library? no problem, just `npm install` them*
+
+So See you in the interview!
 Happy coding and testing! :stuck_out_tongue_winking_eye:
