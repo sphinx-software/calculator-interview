@@ -11,7 +11,7 @@ describe('Calculator add other operator test suite', () => {
         calculator = new Calculator();
     });
 
-    it('can add other 2 sides operator as well', function () {
+    it('can add other 2 sides operator as well', () => {
         let powOperator = null;
 
         // TODO populate the pow operator here!
