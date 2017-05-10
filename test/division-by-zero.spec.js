@@ -3,7 +3,7 @@ const assert = chai.assert;
 
 const Calculator = require('./../src/calculator');
 
-describe('Calculator division by zero', () => {
+describe('Calculator division by zero test suite', () => {
 
     let calculator = null;
 
