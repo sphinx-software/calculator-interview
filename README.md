@@ -16,5 +16,7 @@ This is a test for you before becoming an amazing developer @sphinx!
 
 *Need other library? no problem, just `npm install` them*
 
-So See you in the interview!
+*There are 4 levels of this test (on branch `master`, `level-2`, `level-3` and `level-4`). So if you confident about yourself, why stop there?*
+
+So see you in the interview!
 Happy coding and testing! :stuck_out_tongue_winking_eye:
