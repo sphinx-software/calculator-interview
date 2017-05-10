@@ -12,4 +12,4 @@ This is a test for you before becoming an amazing developer @sphinx!
     - Less then 30 minutes: Great!
 
 See you in the interview!
-Happy coding and testing! ;)
+Happy coding and testing! :stuck_out_tongue_winking_eye:
