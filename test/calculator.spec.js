@@ -34,4 +34,9 @@ describe('Calculator test suite', () => {
 
         assert.equal(2, result);
     });
+
+    it('must throw division by zero exception when it does', () => {
+        // TODO your code here!
+        throw new Error('You should implement this test');
+    })
 });
