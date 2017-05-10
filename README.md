@@ -5,7 +5,7 @@ This is a test for you before becoming an amazing developer @sphinx!
 - We pre-setting up a `npm test` command, you should run that command, then you'll see it failing
 - Our requirement is just simple: Make it pass!
 - Other require will come-in by the interviewer(s)!
-- There are few level of the time box:
+- There are few levels of the time box:
     
     - Less than a minute: You are amazing!
     - Less then 5 minutes: Awesome!
