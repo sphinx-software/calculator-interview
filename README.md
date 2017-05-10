@@ -1,2 +1,10 @@
-# calculator-interview
-Interview Test For Node.JS developer
+# Hi! Our next Sphinxer
+This is a test for you before becoming an amazing developer @sphinx!
+
+- In this repo, you'll have a package.json file that configured with `chai`, `mocha` and `sinon`
+- We pre-setting up a `npm test` command, you should run that command, then you'll see it failing
+- Our requirement is just simple: Make it pass!
+- Other require will come-in by the inteverviewer!
+
+
+Happy coding and testing! ;)
