@@ -13,7 +13,7 @@ describe('Calculator test suite', () => {
         // TODO Add some operator here!
     });
 
-    it('can run a operator', () => {
+    it('can run an operator', () => {
         // TODO test if the calculator can run an operator
     });
 });
