@@ -39,6 +39,7 @@ describe('Calculator test suite', () => {
         let instance1 = Calculator.instance();
         let instance2 = Calculator.instance();
 
+        assert.instanceOf(instance1, Calculator);
         assert.equal(instance1, instance2);
     });
 });
