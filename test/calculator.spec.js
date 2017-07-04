@@ -34,4 +34,11 @@ describe('Calculator test suite', () => {
 
         assert.equal(2, result);
     });
+
+    it('#instance() will return a singleton', () => {
+        let instance1 = Calculator.instance();
+        let instance2 = Calculator.instance();
+
+        assert.equal(instance1, instance2);
+    });
 });
